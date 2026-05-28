@@ -692,15 +692,7 @@ function mousePressed() {
 
   if (
 
-    scene === "start" &&
-
-    mouseX >= 200 &&
-
-    mouseX <= 452 &&
-
-    mouseY >= 507 &&
-
-    mouseY <= 623
+    scene === "start" 
 
   ) {
 
